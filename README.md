@@ -1,7 +1,7 @@
 <h1 align="center">
   🛍️✨ <span style="color:#9c27b0;">Website Bán Hàng Thời Trang</span> ✨🛍️  
 </h1>
-<h3 align="center">🌟 PTIT HCM | Môn: Nhập môn Công nghệ Phần mềm 🌟</h3>
+<h3 align="center">🌟 PTIT HCM | Môn học: Nhập môn Công nghệ Phần mềm 🌟</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=F77A52&center=true&vCenter=true&multiline=true&width=700&lines=🚀+Xây+dựng+website+bán+hàng+thời+trang;" alt="Typing SVG" />
