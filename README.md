@@ -4,7 +4,7 @@
 <h3 align="center">🌟 Nhóm 6 – PTIT HCM | Môn: Nhập môn Công nghệ Phần mềm 🌟</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=F77A52&center=true&vCenter=true&multiline=true&width=700&lines=🚀+Xây+dựng+website+bán+hàng+thời+trang;📦+Java+Servlet+%2B+MySQL+%2B+Bootstrap;🧠+Frontend+%2B+Backend+%2B+Admin+Panel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=F77A52&center=true&vCenter=true&multiline=true&width=700&lines=🚀+Xây+dựng+website+bán+hàng+thời+trang;" alt="Typing SVG" />
 </p>
 
 
