@@ -73,3 +73,8 @@
 
 ```bash
 git clone https://github.com/Brianntd/Nhap_Mon_Cong_Nghe_Phan_Mem_PTIT.git
+## 📌 Tài liệu kèm theo
+
+File báo cáo chi tiết: https://drive.google.com/file/d/1m5KW-bLYB3Ri8HZj8TPbI45hrC01Io9l/view?usp=drive_link
+
+--- 
