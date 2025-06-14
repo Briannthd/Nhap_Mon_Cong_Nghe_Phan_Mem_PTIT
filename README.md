@@ -1,5 +1,5 @@
 <h1 align="center">
-  🛍️✨ <span style="color:#9c27b0;">Fashion Store Website</span> ✨🛍️  
+  🛍️✨ <span style="color:#9c27b0;">Website Hàng Thời Trang</span> ✨🛍️  
 </h1>
 <h3 align="center">🌟 Nhóm 6 – PTIT HCM | Môn: Nhập môn Công nghệ Phần mềm 🌟</h3>
 
